@@ -4,6 +4,11 @@
     <types>
         <members>Account.Test_Field__c</members>
         <members>Account.test2__c</members>
+        <members>hamo__c.test__c</members>
         <name>CustomField</name>
+    </types>
+    <types>
+        <members>hamo__c</members>
+        <name>CustomObject</name>
     </types>
 </Package>
