@@ -11,4 +11,8 @@
         <members>hamo__c</members>
         <name>CustomObject</name>
     </types>
+    <types>
+        <members>sf</members>
+        <name>Flow</name>
+    </types>
 </Package>
