@@ -4,9 +4,6 @@
     <layoutAssignments>
         <layout>Test__c-Test Layout</layout>
     </layoutAssignments>
-    <layoutAssignments>
-        <layout>new_test__c-new test Layout</layout>
-    </layoutAssignments>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
