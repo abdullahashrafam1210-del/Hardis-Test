@@ -3,11 +3,13 @@
     <version>68.0</version>
     <types>
         <members>Test__c.Test__c</members>
+        <members>test_3__c.ds__c</members>
         <name>CustomField</name>
     </types>
     <types>
         <members>Account</members>
         <members>Test__c</members>
+        <members>test_3__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -16,6 +18,7 @@
     </types>
     <types>
         <members>Test__c-Test Layout</members>
+        <members>test_3__c-test 3 Layout</members>
         <name>Layout</name>
     </types>
     <types>
