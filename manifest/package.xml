@@ -2,18 +2,15 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>68.0</version>
     <types>
-        <members>new_test__c.new_test__c</members>
         <members>Test__c.Test__c</members>
         <name>CustomField</name>
     </types>
     <types>
         <members>Account</members>
-        <members>new_test__c</members>
         <members>Test__c</members>
         <name>CustomObject</name>
     </types>
     <types>
-        <members>new_test__c-new test Layout</members>
         <members>Test__c-Test Layout</members>
         <name>Layout</name>
     </types>
