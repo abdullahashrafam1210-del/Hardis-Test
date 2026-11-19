@@ -2,6 +2,7 @@ projectName: hardi_test
 developmentBranch: integration
 allowedOrgTypes:
   - sandbox
+  - scratch
 availableTargetBranches:
   - integration
 useDeltaDeployment: true
