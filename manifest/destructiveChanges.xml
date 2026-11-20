@@ -5,6 +5,7 @@
         <members>Contact.test__c</members>
         <members>new_test__c.new_test__c</members>
         <members>Test__c.Academy__c</members>
+        <members>Test__c.sss__c</members>
         <name>CustomField</name>
     </types>
     <types>
