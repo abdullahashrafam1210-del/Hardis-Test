@@ -3,7 +3,6 @@
     <version>68.0</version>
     <types>
         <members>Contact.academy__c</members>
-        <members>Test__c.Academy__c</members>
         <members>Test__c.Test__c</members>
         <name>CustomField</name>
     </types>
