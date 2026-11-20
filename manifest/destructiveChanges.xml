@@ -7,7 +7,6 @@
         <name>CustomField</name>
     </types>
     <types>
-        <members>Contact</members>
         <members>new_test__c</members>
         <name>CustomObject</name>
     </types>
